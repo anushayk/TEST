@@ -1,0 +1,24 @@
+{
+  "assetsData": [
+    {
+      "assetName": "Asset 1",
+      "capacity": "90"
+    },
+    {
+      "assetName": "Asset 2",
+      "capacity": "43"
+    },
+    {
+      "assetName": "Precipitator",
+      "capacity": "29"
+    },
+    {
+      "assetName": "Transformer 1",
+      "capacity": "85"
+    },
+    {
+      "assetName": "Transformer 2",
+      "capacity": "4"
+    }
+  ]
+}
